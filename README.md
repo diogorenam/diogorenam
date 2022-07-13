@@ -25,5 +25,5 @@ Hi 👋 Welcome to my profile!
   <a href="https://wa.me/qr/KFUFFE7ILG42H1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <div/>
 
-   ![Snake animation](https://github.com/diogorenam/diogorenam/blob/output/github-contribution-grid-snake.svg)
+   
  
